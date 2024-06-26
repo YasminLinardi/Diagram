@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T12:49:21.201Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Fu7y2GWtVB5bNC-yp0o2" version="24.6.0" type="device">
+<mxfile host="app.diagrams.net" modified="2024-06-26T09:50:25.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="VhSHlbA8dao8jH322674" version="24.6.3" type="device">
   <diagram name="Página-1" id="sZ-v1k9veXdMkWaJkyul">
-    <mxGraphModel dx="34080" dy="25040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="13173" dy="13687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4032,7 +4032,7 @@
           <mxGeometry x="-2171.8" y="-320" width="2710" height="3491.5" as="geometry" />
         </mxCell>
         <mxCell id="WR1xEh6UWxmfJZipxaPW-260" value="&lt;span style=&quot;font-size: 135px;&quot;&gt;&lt;b&gt;&lt;i&gt;Controle de vendas&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1796.6799999999998" y="-299.99999999999955" width="1280" height="180" as="geometry" />
+          <mxGeometry x="-1773.12" y="-179.99999999999955" width="1280" height="180" as="geometry" />
         </mxCell>
         <mxCell id="WR1xEh6UWxmfJZipxaPW-261" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF00FF;strokeColor=#FF00FF;" parent="1" vertex="1">
           <mxGeometry x="-5181.5" y="2750" width="2710" height="3491.5" as="geometry" />
@@ -4171,6 +4171,78 @@
         </mxCell>
         <mxCell id="82_NP6rdWEXfMEwbH6wN-3" value="&lt;span style=&quot;font-size: 135px;&quot;&gt;&lt;b&gt;&lt;i&gt;Controle de vendas&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1220" y="-2599.9999999999995" width="1280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-1" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 36px;&quot;&gt;Deseja apagar cliente?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#330033;strokeWidth=8;strokeColor=#660066;" vertex="1" parent="1">
+          <mxGeometry x="-1462.31" y="-4455.2" width="520" height="435.2" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/warning-128.png" vertex="1" parent="1">
+          <mxGeometry x="-1266.31" y="-4427" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-21" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;Sim&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#660066;" vertex="1" parent="1">
+          <mxGeometry x="-1401.93" y="-4172.5" width="151.93" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-22" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;Não&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#660066;fillColor=#660066;" vertex="1" parent="1">
+          <mxGeometry x="-1147.65" y="-4166.5" width="151.93" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-23" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 36px;&quot;&gt;Deseja apagar Funcionário&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20color%3D%26quot%3B%23ffffff%26quot%3B%20style%3D%26quot%3Bfont-size%3A%2036px%3B%26quot%3B%26gt%3BDeseja%20apagar%20cliente%3F%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23330033%3BstrokeWidth%3D8%3BstrokeColor%3D%23660066%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-1462.31%22%20y%3D%22-4455.2%22%20width%3D%22520%22%20height%3D%22435.2%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22shape%3Dimage%3Bhtml%3D1%3BverticalAlign%3Dtop%3BverticalLabelPosition%3Dbottom%3BlabelBackgroundColor%3D%23ffffff%3BimageAspect%3D0%3Baspect%3Dfixed%3Bimage%3Dhttps%3A%2F%2Fcdn1.iconfinder.com%2Fdata%2Ficons%2Fionicons-fill-vol-2%2F512%2Fwarning-128.png%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-1266.31%22%20y%3D%22-4427%22%20width%3D%22128%22%20height%3D%22128%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%26lt%3Bfont%20color%3D%26quot%3B%23ffffff%26quot%3B%20style%3D%26quot%3Bfont-size%3A%2024px%3B%26quot%3B%26gt%3BSim%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22ellipse%3Bshape%3Dcloud%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23660066%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-1401.93%22%20y%3D%22-4172.5%22%20width%3D%22151.93%22%20height%3D%22110%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%26lt%3Bfont%20color%3D%26quot%3B%23ffffff%26quot%3B%20style%3D%26quot%3Bfont-size%3A%2024px%3B%26quot%3B%26gt%3BN%C3%A3o%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22ellipse%3Bshape%3Dcloud%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeColor%3D%23660066%3BfillColor%3D%23660066%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-1147.65%22%20y%3D%22-4166.5%22%20width%3D%22151.93%22%20height%3D%22110%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20color%3D%26quot%3B%23ffffff%26quot%3B%20style%3D%26quot%3Bfont-size%3A%2036px%3B%26quot%3B%26gt%3BDeseja%20apagar%20cliente%3F%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23330033%3BstrokeWidth%3D8%3BstrokeColor%3D%23660066%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-1462.31%22%20y%3D%22-4455.2%22%20width%3D%22520%22%20height%3D%22435.2%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22shape%3Dimage%3Bhtml%3D1%3BverticalAlign%3Dtop%3BverticalLabelPosition%3Dbottom%3BlabelBackgroundColor%3D%23ffffff%3BimageAspect%3D0%3Baspect%3Dfixed%3Bimage%3Dhttps%3A%2F%2Fcdn1.iconfinder.com%2Fdata%2Ficons%2Fionicons-fill-vol-2%2F512%2Fwarning-128.png%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-1266.31%22%20y%3D%22-4427%22%20width%3D%22128%22%20height%3D%22128%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%26lt%3Bfont%20color%3D%26quot%3B%23ffffff%26quot%3B%20style%3D%26quot%3Bfont-size%3A%2024px%3B%26quot%3B%26gt%3BSim%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22ellipse%3Bshape%3Dcloud%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23660066%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-1401.93%22%20y%3D%22-4172.5%22%20width%3D%22151.93%22%20height%3D%22110%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%26lt%3Bfont%20color%3D%26quot%3B%23ffffff%26quot%3B%20style%3D%26quot%3Bfont-size%3A%2024px%3B%26quot%3B%26gt%3BN%C3%A3o%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22ellipse%3Bshape%3Dcloud%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeColor%3D%23660066%3BfillColor%3D%23660066%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-1147.65%22%20y%3D%22-4166.5%22%20width%3D%22151.93%22%20height%3D%22110%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 36px;&quot;&gt;?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#330033;strokeWidth=8;strokeColor=#660066;" vertex="1" parent="1">
+          <mxGeometry x="-1490.55" y="-895.1999999999998" width="520" height="435.2" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/warning-128.png" vertex="1" parent="1">
+          <mxGeometry x="-1294.55" y="-867" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-25" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;Sim&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#660066;" vertex="1" parent="1">
+          <mxGeometry x="-1430.17" y="-612.5" width="151.93" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-26" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;Não&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#660066;fillColor=#660066;" vertex="1" parent="1">
+          <mxGeometry x="-1175.89" y="-606.5" width="151.93" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-29" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 36px;&quot;&gt;Deseja apagar Cargos&lt;/font&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 36px;&quot;&gt;?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#330033;strokeWidth=8;strokeColor=#660066;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="-3200" width="522.75" height="435.2" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-30" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/warning-128.png" vertex="1" parent="1">
+          <mxGeometry x="1678.75" y="-3171.8" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-31" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;Sim&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#660066;" vertex="1" parent="1">
+          <mxGeometry x="1543.13" y="-2917.3" width="151.93" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-32" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;Não&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#660066;fillColor=#660066;" vertex="1" parent="1">
+          <mxGeometry x="1797.4099999999999" y="-2911.3" width="151.93" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-33" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000033;shadow=0;dashed=0;shape=mxgraph.ios7.icons.calendar;fillColor=#004C99;" vertex="1" parent="1">
+          <mxGeometry x="-4440" y="-7960" width="60.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-35" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;Cadastro concluído!&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#330033;strokeWidth=8;strokeColor=#660066;" vertex="1" parent="1">
+          <mxGeometry x="-3788.5" y="-4709.05" width="520" height="435.2" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-40" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 72px;&quot;&gt;(:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3562" y="-4405.85" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-41" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;Cadastro concluído!&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#330033;strokeWidth=8;strokeColor=#660066;" vertex="1" parent="1">
+          <mxGeometry x="-80.67999999999984" y="-2600" width="520" height="435.2" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-42" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 72px;&quot;&gt;(:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145.82000000000016" y="-2296.8" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-43" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;Cadastro concluído!&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#330033;strokeWidth=8;strokeColor=#660066;" vertex="1" parent="1">
+          <mxGeometry x="-3160" y="-1105.3" width="520" height="435.2" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-44" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 72px;&quot;&gt;(:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2933.5" y="-802.1000000000001" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-45" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;Cadastro concluído!&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#330033;strokeWidth=8;strokeColor=#660066;" vertex="1" parent="1">
+          <mxGeometry x="-1049.5499999999997" y="-8038.45" width="520" height="435.2" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-46" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;Cadastro concluído!&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#330033;strokeWidth=8;strokeColor=#660066;" vertex="1" parent="1">
+          <mxGeometry x="2650.0000000000005" y="-8025.7" width="520" height="435.2" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-47" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 72px;&quot;&gt;(:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-821.7999999999998" y="-7694.8" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-48" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 72px;&quot;&gt;(:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2880" y="-7760.85" width="60" height="135.2" as="geometry" />
+        </mxCell>
+        <mxCell id="LkfvURQVGFk0_xh3pgRN-50" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3360" y="-1000" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
